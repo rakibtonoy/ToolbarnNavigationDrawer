@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AndroidLimeTheme" parent="AndroidLimeTheme.Rubel">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="AndroidLimeTheme.Rubel" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">#ad1457</item>
+        <item name="colorPrimaryDark">#880e4f</item>
+        <item name="colorAccent">#e91e63</item>
+    </style>
+
+</resources>
